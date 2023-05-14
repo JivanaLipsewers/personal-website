@@ -1,0 +1,83 @@
+body { 
+font-family: 'Poppins', sans-serif;
+box-sizing: border-box;
+}
+
+h1,h2,h3,h4,h5,h6 {
+font-weight: 700;
+}
+
+.label {
+    font-weight: 400;
+    color: #693dab;
+}
+
+.bodycopy_bold {
+    font-weight: 700;
+}
+
+.bodycopy_regular {
+    font-weight: 500;
+}
+
+.navigation {
+    display: flex;
+    bottom: 0;
+    width: 100%;
+    background: #693dab;
+    color: #ffffff;
+    height: 36px;
+    justify-content: space-between;
+    align-items: center;
+    padding: 12px;
+}
+.ÜberMich {
+    display: flex;
+}
+
+.profile_image {
+    border-radius: 50%;
+    max-width: 50%;
+    height: auto;
+    align-self: center;
+}
+
+.container {
+}
+
+.point_big {
+    background: #EBFF00;
+    color: #693DAB;
+    border: 12px solid #693DAB;
+    border-radius: 50%;
+    width: 24px;
+    height: 24px;
+
+}
+
+
+.point_small {
+    background: #EBFF00;
+    color: #693DAB;
+    border: 10px solid #693DAB;
+    border-radius: 50%;
+    width: 14px;
+    height: 14px;
+ }
+
+.icon_padding {
+    
+}
+
+.footer {
+  display: flex;
+  bottom: 0;
+  width: 100%;
+  background: #693dab;
+  color: #ffffff;
+  height: 36px;
+  justify-content: space-between;
+  align-items: center;
+  padding: 12px;
+}
+  
